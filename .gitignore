@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+.env
+
+# Archivos compilados de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Archivos de registro
+*.log
+
+# Configuración del IDE/editor
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Node.js si usas Nuxt u otro framework
+node_modules/
+dist/
+
